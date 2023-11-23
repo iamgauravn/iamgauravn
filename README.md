@@ -1,5 +1,9 @@
 # 💫 About Me:
-👨🏼‍💻 I'm a Mobile Application Developer with Passion for Making Amazing Native Android Applications that make people life easy.<br>Shoot me an E-mail or add me on Linkdin : )
+🌟 Innovative Cross-Platform Developer
+
+Transforming ideas into seamless digital experiences, I'm a dynamic and passionate Software Developer fluent in both Android and web realms. 📱 Android-Wise, I bring prowess in Java/Kotlin, UI/UX design, and API wizardry. 🌐 On the web frontier, my skills span both front-end finesse and back-end brilliance.
+
+💡 Philosophy: I thrive on crafting solutions that not only meet technical benchmarks but also solve real-world problems, marrying elegance with efficiency for an unforgettable digital journey..<br>Shoot me an E-mail or add me on Linkdin : )
 
 
 ## 🌐 Socials:
