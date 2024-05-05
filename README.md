@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-Hey there! I'm Gaurav, your friendly neighborhood software wizard. With 1.6 years of experience in Android development, I've traversed the thrilling rollercoaster of debugging, often creating bugs like a modern Picasso—only to solve them with the grace of a coding ninja. Recently, I've embarked on a new adventure as an Angular + .NET developer, diving into the realms of C#, HTML, CSS, TypeScript, and SQL Server. Passionate about crafting delightful user experiences and diving deep into the mysteries of code. Let's connect and share a laugh about the quirks of our digital realm! 🚀😄
+Versatile Developer with a passion for crafting innovative solutions and delivering user-centric experiences. Experienced in both mobile and web development, leveraging expertise in UI/UX design and API integration to create seamless solutions. Committed to industry best practices and contributing to the success of diverse software projects.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_a_m_g_a_u_r_a_v)
