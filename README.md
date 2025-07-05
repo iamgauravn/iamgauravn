@@ -41,9 +41,12 @@ Versatile Developer with a passion for crafting innovative solutions and deliver
 
 ## 🐰 Message Brokers:
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Azure Service Bus](https://img.shields.io/badge/Azure%20Service%20Bus-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![MassTransit](https://img.shields.io/badge/MassTransit-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 
 ## 🖥️ Servers & Hosting:
 ![IIS](https://img.shields.io/badge/IIS-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-00D4AA?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🛠️ Development Tools:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -53,3 +56,4 @@ Versatile Developer with a passion for crafting innovative solutions and deliver
 ![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Onion Architecture](https://img.shields.io/badge/Onion%20Architecture-8B5CF6?style=for-the-badge&logo=layers&logoColor=white)
 ![Vertical Slice Architecture](https://img.shields.io/badge/Vertical%20Slice-10B981?style=for-the-badge&logo=slice&logoColor=white)
+![SAGA Pattern](https://img.shields.io/badge/SAGA%20Pattern-FF6B6B?style=for-the-badge&logo=workflow&logoColor=white)
